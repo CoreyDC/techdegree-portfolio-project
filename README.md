@@ -1,2 +1,2 @@
-# techdegree-portfolio-project
- First Trehhouse Techdegree Project
+# Portfolio Project
+ First TechDegree Project
